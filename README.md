@@ -20,7 +20,7 @@ cd ~/Downloads
 ```
 
 ```
-cd HW-2-Random
+cd HW-2-random
 ```
 
 ```
